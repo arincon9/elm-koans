@@ -1,4 +1,6 @@
 # Elm Koans
+Exercises created in Elm to help solidify your skills in the language.
+
 
 ## Instructions
 * Get [Elm](http://elm-lang.org/install) version 0.18
